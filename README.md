@@ -7,3 +7,12 @@
 lazzzaroni/lazzzaroni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![](https://komarev.com/ghpvc/?username=lazzzaroni&color=blueviolet)
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  
+  <img align="left" alt="lazzzaroni's GitHub Stats" src="https://github-readme-stats-lazzzaroni.vercel.app/api?username=lazzzaroni&show_icons=true&hide_border=true" />
+
+ </details>
