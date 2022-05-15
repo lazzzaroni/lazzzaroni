@@ -15,7 +15,6 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lazzzaroni&color=blueviolet"  alt="lazzzaroni" />
-  <a href="https://www.buymeacoffee.com/lazzzaroni"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"  height="20" width="84" alt="lazzzaroni" /></a> 
 </p>
 
 - 📒 I’m currently learning **Angular, TS and everything which connected with JS world.**
