@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://fb.com/iamnotlazzaroni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamnotlazzaroni" height="30" width="40" /></a>
+<a href="https://fb.com/iamnotlazzaroni" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamnotlazzaroni" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iamnotlazzaroni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamnotlazzaroni" height="30" width="40" /></a>
 <a href="https://twitter.com/lazzzaroni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lazzzaroni" height="30" width="40" /></a>
 <a href="https://codepen.io/lazzzaroni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="lazzzaroni" height="30" width="40" /></a>
