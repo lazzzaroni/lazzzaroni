@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lazzzaroni&theme=transparent&hide_title=true&show_icons=true&locale=en&border_radius=false&card_width=360" alt="lazzzaroni" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lazzzaroni&theme=transparent&hide_title=true&show_icons=true&locale=en&border_radius=false&card_width=360" alt="Github Statistic" />
 </p>
 
 <p align="center">
@@ -69,21 +69,21 @@
 <p align="center">
   <!-- Facebook -->
   <a href="https://facebook.com/iamnotlazzaroni" target="_blank">
-    <img alt="Facebook" src="https://img.shields.io/badge/facebook-3b5998.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/facebook-3b5998.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
   <!-- Twitter -->
   <a href="https://twitter.com/lazzzaroni" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/lazzzaroni" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 <p align="center">
   <!-- Buy Me a Coffee -->
   <a href="https://www.buymeacoffee.com/lazzzaroni" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/buy_me_a_coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+    <img src="https://img.shields.io/badge/buy_me_a_coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" />
   </a>
 </p>
