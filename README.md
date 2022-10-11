@@ -68,7 +68,7 @@
 
 <p align="center">
   <!-- Facebook -->
-  <a href="https://github.com/lazzzaroni" target="_blank">
+  <a href="https://facebook.com/iamnotlazzaroni" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/facebook-3b5998.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
   </a>
   <!-- Twitter -->
