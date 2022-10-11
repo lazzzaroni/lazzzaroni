@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Website -->
-  <a href="https://portfolio-lazzzaroni.vercel.app/" target="_blank">
+  <a href="https://website-lazzzaroni.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/website-18181b?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Website" />
   </a>
   <!-- Gmail -->
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/my_stack-417e87?style=for-the-badge&color=006aff" alt="My Stack" />
+  <img src="https://img.shields.io/badge/my_stack-417e87?style=for-the-badge&color=0579c3" alt="My Stack" />
 </p>
 
 <p align="center">
