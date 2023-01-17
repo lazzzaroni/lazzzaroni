@@ -1,8 +1,8 @@
 <p align="center">
   <!-- Website -->
-  <a href="https://website-lazzzaroni.vercel.app/" target="_blank">
+<!--   <a href="https://website-lazzzaroni.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/website-18181b?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Website" />
-  </a>
+  </a> -->
   <!-- Gmail -->
   <a href="mailto:iamnotlazzaroni@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -58,9 +58,9 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lazzzaroni&theme=transparent&hide_title=true&show_icons=true&locale=en&border_radius=false&card_width=360" alt="Github Statistic" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lazzzaroni&color=7209b7&style=flat-square&label=profile+views" alt="Profile Views" />
