@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/website-18181b?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Website" />
   </a> -->
   <!-- Gmail -->
-  <a href="mailto:iamnotlazzaroni@gmail.com" target="_blank">
+  <a href="mailto:mpaliakou.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
@@ -76,7 +76,7 @@
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/lazzzaroni" target="_blank">
+  <a href="https://www.linkedin.com/in/mpaliakou" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
