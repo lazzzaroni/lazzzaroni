@@ -63,7 +63,10 @@
 </p> -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lazzzaroni&color=7209b7&style=flat-square&label=profile+views" alt="Profile Views" />
+  <!-- Codewars -->
+  <a href="https://www.codewars.com/users/lazzzaroni" target="_blank">
+    <img src="https://img.shields.io/badge/codewars-b1361e.svg?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars" />
+  </a>
 </p>
 
 <p align="center">
@@ -87,3 +90,9 @@
     <img src="https://img.shields.io/badge/buy_me_a_coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" />
   </a>
 </p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lazzzaroni&color=7209b7&style=flat-square&label=profile+views" alt="Profile Views" />
+</p>
+
