@@ -1,8 +1,8 @@
 <p align="center">
   <!-- Website -->
-<!--   <a href="https://website-lazzzaroni.vercel.app/" target="_blank">
+  <a href="https://mpaliakou.dev/" target="_blank">
     <img src="https://img.shields.io/badge/website-18181b?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Website" />
-  </a> -->
+  </a>
   <!-- Gmail -->
   <a href="mailto:mpaliakou.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
