@@ -10,10 +10,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/my_stack-417e87?style=for-the-badge&color=0579c3" alt="My Stack" />
-</p>
-
-<p align="center">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="36" height="36"/>
   </a>
@@ -26,8 +22,11 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="github" width="36" height="36"/>
   </a>
+  <a href="https://gitlab.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="36" height="36"/>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/>
+  </a>
   </a>
 </p>
 
@@ -66,10 +65,22 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="36" height="36"/>
   </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="36" height="36"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="33" height="33"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="36" height="36"/>
+  </a>
+  <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer">
+    <img src="https://itelofilho.gallerycdn.vsassets.io/extensions/itelofilho/chakra-ui-cheatsheet/0.1.2/1602346378840/Microsoft.VisualStudio.Services.Icons.Default" alt="chakraui" width="32" height="32"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.ableton.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/ableton-10-569537.png" alt="ableton" width="36" height="36"/>
+  </a>
+  <a href="https://www.apple.com/logic-pro/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/logic_pro_x_macos_bigsur_icon_190024.png" alt="logicpro" width="36" height="36"/>
   </a>
 </p>
 
@@ -106,8 +117,6 @@
   </a>
 </p>
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lazzzaroni&color=7209b7&style=flat-square&label=profile+views" alt="Profile Views" />
 </p>
-
