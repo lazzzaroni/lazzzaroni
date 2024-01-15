@@ -1,6 +1,6 @@
 <p align="center">
-  <!-- Website -->
-  <a href="https://mpaliakou.dev/" target="_blank">
+  <!-- Old Website -->
+  <a href="mpaliakou-dev.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/website-18181b?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Website" />
   </a>
   <!-- Gmail -->
@@ -39,9 +39,13 @@
   </a>
 </p>
 
+
 <p align="center">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/b7a4cc6c8248538da219c03d704d9c2a190c4509/icons/react/react-original.svg" alt="react" width="36" height="36"/>
+  </a>
+  <a href="https://remix.run/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" alt="remix" width="36" height="36"/>
   </a>
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="36" height="36"/>
